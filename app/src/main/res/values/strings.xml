@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">realFinal</string>
+    <string name="title_activity_main">Map</string>
+    <string name="title_activity_activity2">Map</string>
+
+    <color name="grey">#898987</color>
+
+    <string name="action_settings">Settings</string>
+
+</resources>

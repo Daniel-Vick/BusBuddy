@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/jeremy/Desktop/realFinal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="95fd37732ec852e99f07eeb516a3650172f1d136">
+        <dex dex="/Users/jeremy/Desktop/realFinal/app/build/intermediates/pre-dexed/debug/classes-45295ee67b4a49b803a0914f6d9b4701a71cde59.jar" />
+    </item>
+    <item
+        jar="/Users/jeremy/Desktop/realFinal/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="/Users/jeremy/Desktop/realFinal/app/build/intermediates/pre-dexed/debug/classes-f05786e01e3407bea39228697b5423c3a619ed01.jar" />
+    </item>
+    <item
+        jar="/Users/jeremy/Desktop/realFinal/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/libs/internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="/Users/jeremy/Desktop/realFinal/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-a52f314e1a05eba36444f5dfb0bbeb697db7da75.jar" />
+    </item>
+    <item
+        jar="/Users/jeremy/Desktop/realFinal/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="/Users/jeremy/Desktop/realFinal/app/build/intermediates/pre-dexed/debug/classes-70472555dd67312528e495abffdc9e02a3008ba5.jar" />
+    </item>
+    <item
+        jar="/Users/jeremy/Downloads/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.0/support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="/Users/jeremy/Desktop/realFinal/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.0-5a884f3eea26b1ae71261a892b09ce22f7e6dc6e.jar" />
+    </item>
+
+</items>
