@@ -1,0 +1,22 @@
+Program Description:
+This program is game called 2048. It creates a board of a specified size and place a tile with the value of 2 or 4 in two random spots on the board. Then the user can press W-Up A-Left S-Down D-right keys to shift tiles in the given direction. Tiles can move in a given direction if there is an empty space between the tile and the edge of the board in the given direction, or if there are two of the same value tiles next two eachother in the given direction. If the two tiles are the same value, they merge into a new tile with the value of the two previous tiles added together.
+
+Short Response:
+Vim Related Questions:
+1. :n n being the desired line
+2. :filetype indent on
+   :filetype indent off
+3. u
+4. w
+   b
+Unix/Linux:
+5. rm *.class
+6. rmdir directory_name
+   if emtpy: rmdir directory_name
+   if not emtpy: cd directory_name
+                 rm *
+                 cd ..
+                 rmdir directory_name
+They differ because you cannot remove a directory that is not empty.
+The second set of commands clears a directory before removing it.
+7. clear
